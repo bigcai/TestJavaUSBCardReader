@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TestJavaUSBCardReader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaUSBCardReader_jar</output-path>
+    <root id="archive" name="TestJavaUSBCardReader.jar">
+      <element id="module-output" name="TestJavaUSBCardReader" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/JNative.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
